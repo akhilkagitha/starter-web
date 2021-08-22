@@ -2,6 +2,7 @@
 
 This is the simple project for showing how Git & Git hub together
 Adding a line for rebasing example
+More changes from my future branch too
 
 ## Introduction
 
