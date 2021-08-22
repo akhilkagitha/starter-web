@@ -22,4 +22,4 @@ fork this repository and them issue pull request
 
 ### Copyright
 
-Git.training 2021
+Git.training 2021. all rights reserved
