@@ -8,6 +8,10 @@ This is example to show the diff between the git and git hub
 
 ## Purpose
 
+As stated above the main purpose is to provide simple examples
+
 ## Deployment
+
+Deployment can be on any web server
 
 #### How to contribute
