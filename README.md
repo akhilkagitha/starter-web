@@ -15,3 +15,7 @@ As stated above the main purpose is to provide simple examples
 Deployment can be on any web server
 
 #### How to contribute
+
+### Copyright
+
+Git.training 2021
