@@ -16,6 +16,8 @@ Deployment can be on any web server
 
 #### How to contribute
 
+fork this repository and them issue pull request
+
 ### Copyright
 
 Git.training 2021
