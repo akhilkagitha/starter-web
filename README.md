@@ -1,6 +1,7 @@
 # starter web project
 
 This is the simple project for showing how Git & Git hub together
+Adding a line for rebasing example
 
 ## Introduction
 
